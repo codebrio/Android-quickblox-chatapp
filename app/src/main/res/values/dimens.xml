@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="chat_attachment_preview_size">80dp</dimen>
+    <dimen name="list_item_side_margin">16dp</dimen>
+    <dimen name="padding_common">8dp</dimen>
+    <dimen name="padding_common_big">20dp</dimen>
+
+</resources>
